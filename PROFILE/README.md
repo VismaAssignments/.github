@@ -1,8 +1,8 @@
 # Visma.NET Payroll's assignment repo.
 
-In this repo you will find technical assignments used for recriutment purposes.
+In this Github org you will find technical assignments used for recriutment purposes.
 
-Default access in this Github org is none, thus you need to be given access to a repo directly or a team to view anything.
+Default access in this Github org is *none*, so you need to be given access to a repo directly or a team to view anything.
 
 There are two roles/teams. 
 ## Assignment creators
