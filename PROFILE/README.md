@@ -17,3 +17,9 @@ There are two roles/teams.
 1. Give candidate access to this repo specifically as a outside collaborator
 > As the default access is *none*, the repo will only be visible for the creator and direct assignees.
 1. Let candidate push to repo and deliver his/her assignment.
+
+## Creating a new template
+1. Create a new repository with the following naming scheme: [template/team name]-recruitment-techtest-template
+1. Mark it as a template repository in the repository settings menu
+1. Give assignment reviewers team READ access
+1. Give assignment creators team WRITE access
